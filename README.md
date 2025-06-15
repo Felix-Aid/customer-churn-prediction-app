@@ -24,8 +24,6 @@ It is designed for business users, data scientists, and AI/ML enthusiasts who wa
 
 ```
 ├── app.py / app_churn.py         # Main Streamlit app
-├── load_utils.py                 # Loads model and scaler
-├── predict_utils.py              # Handles prediction logic + SHAP
 ├── model.pkl                     # Trained Random Forest model
 ├── scaler.pkl                    # StandardScaler used for features
 ├── sample_input.csv              # Working example file
@@ -109,6 +107,6 @@ This app is ideal for:
 
 ## 📧 Contact
 
-**Felix Aidoo**  
+**Felix Stephen Aidoo**  
 Email: felixaidoo@example.com  
-LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/felix-s-aidoo)
