@@ -1,7 +1,5 @@
 scikit-learn==1.6.1
 streamlit==1.25.0
-shap==0.41.0
-pandas==1.5.3
-numpy==1.23.5
-joblib==1.2.0
-matplotlib==3.6.3
+shap==0.45.1  # Updated version without LLVM 14 requirement
+pandas==2.2.1  # Updated version with Python 3.13 support
+numpy==1.26.4  # Updated version with Python 3.13 support
