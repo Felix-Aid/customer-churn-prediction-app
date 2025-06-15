@@ -1,0 +1,22 @@
+# Raw or sensitive data
+Telco-Customer-Churn.csv
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+.python-version
+venv/
+env/
+churn-env/
+
+# macOS system files
+.DS_Store
+
+# IDE or editor files
+.vscode/
+.idea/
+
+
+
+
+
