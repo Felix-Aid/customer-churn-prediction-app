@@ -1,6 +1,13 @@
 
 # 🧠 Customer Churn Prediction App with SHAP
 
+## 🖥️ Demo Preview
+
+![Churn App Demo](assets/churn_app_demo.gif)
+
+
+A user-friendly Streamlit web app...
+
 This Streamlit-based web app allows users to **predict telecom customer churn** and **understand the prediction results** using **SHAP (SHapley Additive exPlanations)** visualizations.
 
 It is designed for business users, data scientists, and AI/ML enthusiasts who want actionable insights and model explainability.
