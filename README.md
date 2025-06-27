@@ -1,9 +1,12 @@
 
 # 🧠 Customer Churn Prediction App with SHAP
 
-## 🖥️ Demo Preview
+## ▶️ Watch Full Demo
 
-![Churn App Demo](assets/churn_app_demo.gif)
+[![Watch the demo](https://img.youtube.com/vi/yAf94KphmSU/0.jpg)](https://youtu.be/yAf94KphmSU)
+
+This video walks through how the Customer Churn Prediction App works — from uploading a dataset to viewing churn predictions and SHAP-based explainability.
+
 
 
 A user-friendly Streamlit web app...
