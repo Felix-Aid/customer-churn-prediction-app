@@ -1,5 +1,6 @@
+--only-binary :all:
 scikit-learn==1.6.1
 streamlit==1.25.0
-shap==0.45.1  # Updated version without LLVM 14 requirement
-pandas==2.2.1  # Updated version with Python 3.13 support
-numpy==1.26.4  # Updated version with Python 3.13 support
+shap==0.45.1
+pandas==2.2.1
+numpy==1.26.4
