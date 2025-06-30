@@ -114,6 +114,7 @@ This app is ideal for:
 - Model explainability demonstrations using SHAP
 
 ---
+📄 **Project Report**: [Download PDF](./Customer%20Churn%20Prediction%20App_Report.pdf)
 
 ## 📧 Contact
 
